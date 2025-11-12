@@ -1,13 +1,9 @@
-:root {
-  --color-primary: #006cbb;
-
-  --color-white: #ffffff;
-  --color-gray-light: #eeeeee;
-  --color-gray: #cccccc;
-  --color-gray-dark: #777777;
-  --color-black: #000000;
-
-  --color-success: #01bd78;
-
-  --color-error: #d40019;
-}
+$color-primary: #007bff;
+$color-secondary: #6c757d;
+$color-disabled: #c0c0c0;
+$color-text: #212529;
+$color-bg: #ffffff;
+$border-radius: 4px;
+$padding-small: 8px 12px;
+$padding-medium: 12px 16px;
+$font-family: 'Inter', sans-serif;
